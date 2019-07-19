@@ -26,7 +26,7 @@ You must run your index.html in some recent browser version
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/astroamat) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/AstroAmat/P5.js/blob/master/contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
