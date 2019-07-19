@@ -36,11 +36,6 @@ p5.js was created by <a href="http://lauren-mccarthy.com"> Lauren McCarthy </a> 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-##Authors
+## Authors
 
 <a href="https://github.com/AstroAmat"> AstroAmat </a>
