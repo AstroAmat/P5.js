@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Authors
 
-<a href="https://github.com/AstroAmat"> AstroAmat </a>
+<a href="https://github.com/AstroAmat"> Antonio Amat </a> or <a href="astroamat">astroamat.com</a>
